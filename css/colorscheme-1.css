@@ -1,0 +1,162 @@
+/*
+ Theme Name: SLAMR
+ Author: CREATEBRILLIANCE - Media & Consulting
+ Author URI: http://www.createbrilliance.com
+ Version: 1.0
+ */
+body{
+	color:white;
+}
+#welcome .hero h2 {
+	color: white;
+}
+#welcome .hero p,#offers .hero p  {
+	color: #308165;
+}
+#welcome, #offers {
+	background-color: #52CD9A;
+}
+
+#welcome a{
+	color:#DBF56D;
+}
+#welcome a:hover{
+	color:white;
+}
+.skillbar {
+	background: #50B383;
+}
+.skillbar-title {
+	background: #386D54 !important;
+}
+.skillbar-bar {
+	background: #386D54 !important;
+}
+.skill-bar-percent{
+	color:white;
+}
+.feature {
+    border: 1px solid #38C284;
+   }
+   
+.feature:hover{
+	background-color:#398867;
+}
+#clients .svgcolor-light path {
+    fill: #52CD9A;
+    stroke: #52CD9A;
+    stroke-width: 0;
+}
+#cv .hero h2 {
+	color: white;
+}
+#cv .hero p {
+	color:#367FA6;
+}
+#cv{
+	background-color:#4DBCF8;
+	color:white;
+}
+#cv hr{
+	border-top:1px solid #52ADDE;
+}
+
+.cv-wrapper .cv .date .fa, .cv-wrapper .cv .main .fa, .cv-wrapper .cv .date {
+    color: #3C8AB4;
+}
+.cv-wrapper h3,.cv-wrapper h4,.timeline-section {
+    color: #367FA6;
+   }
+.cv-wrapper .cv .desc {
+    color: #FFFFFF;
+}
+.timeline:before{
+	background-color:#52ADDE;
+}
+.timeline > li > .timeline-panel{
+	border:1px solid #52ADDE;
+}
+.timeline > li > .timeline-panel:before {
+
+    border-left: 15px solid #52ADDE;
+    border-right: 0 solid #52ADDE
+
+}
+
+.timeline > li > .timeline-panel:after {
+
+    border-left: 14px solid #52ADDE;
+    border-right: 0 solid #52ADDE;
+
+}
+.timeline-body > p, .timeline-body > ul,.timeline-heading small{
+	color:white;
+}
+.timeline > li > .timeline-badge { 
+    background-color: #E6BB7C;
+   }
+.timeline > li > .timeline-badge.work {
+    background-color: #8EE67C !important;
+}
+.timeline-badge.work .fa {
+    color: #7EB565;
+   }
+#cv .btn-default{
+	border-color:white;
+	color:white;
+}
+#cv .btn-default:hover,#cv .btn-default:focus,#cv .btn-default:active,#cv .btn-default.active,#cv  .open .dropdown-toggle.btn-default {
+	border-color: #313942;
+
+}
+#portfolio .hero h2 {
+	color: white;
+}
+#portfolio .hero p {
+	color: #9F3F3F;
+}
+#portfolio{
+	background-color:#FF7A7A;
+}
+#portfolio .filter a{
+	color:white;
+}
+.portfolio-wrapper .arrow-up {
+    border-bottom: 15px solid #653333;
+   }
+.portfolio-wrapper{
+	background-color:#DD6666;
+	color:#211616;
+	margin-bottom:0px;
+}
+.portfolio-wrapper a{
+	color:white;
+}
+
+#blog .hero h2 {
+	color: white;
+}
+#blog .hero p {
+	color: #897F24;
+}
+#blog{
+	color:black;
+	background-color: #FFE180;
+}
+#blog .text-muted{
+	color:#BAB273;
+}
+
+#testimonials{
+	background-color:#3C2B2B;
+}
+#testimonials .hero h2{
+	color:#F9EC41;
+}
+#testimonials .hero p{
+	color:#585131;
+}
+
+#awards{
+	color:black;
+}
