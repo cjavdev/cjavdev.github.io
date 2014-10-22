@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "CJ Avilla",
+    "label": "Web Developer",
+    "picture": "",
+    "email": "cjavilla@gmail.com",
+    "phone": "(775) 225-5622",
+    "website": "http://cjavilla.com",
+    "summary": "Driven, entrepreneurial minded, web developer.",
+    "location": {
+      "address": "2200 Gellert Blvd",
+      "postalCode": "CA 94080",
+      "city": "South San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@w1zeman1p",
+        "url": "https://twitter.com/wizemanip"
+      },
+      {
+        "network": "Github",
+        "username": "w1zeman1p",
+        "url": "https://github.com/w1zeman1p"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "App Academy",
+      "position": "Instructor",
+      "website": "http://appacademy.io",
+      "startDate": "2013-07-15",
+      "endDate": "2020-01-01",
+      "summary": "App Academy is an immersive 12 week web development and job placement program in San Francisco and New York. Alumni work at companies like Google, Facebook, Twillio, PagerDuty, Pivotal and more.",
+      "highlights": [
+        "Live code lecture about Ruby, SQL, Rails, Javascript, Backbone and Performance.",
+        "Teach class of ~45 students.",
+        "Manage team of 4 instructors and teaching assistants.",
+        "Develop curriculum."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Nevada",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2005-08-27",
+      "endDate": "2012-06-12",
+      "gpa": "3.6",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Bronze Star Medal",
+      "date": "2011-12-30",
+      "awarder": "US Army",
+      "summary": "Requested by name by multiple Brigade Commanders to control tactical network of western region of Afghanistan."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "Rails",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Finance",
+      "keywords": [
+        "Insider Trading",
+        "Algorithmic Trading"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Dylan Clark",
+      "reference": "I've had the pleasure of working with CJ as both a student and coworker; I can attest to his diligent work ethic and outstanding character. As a student, CJ was a tenacious learner, often going above and beyond to understand the material deeper than I. He was quick to help other students and make sure his peers understood the material and were keeping up in class.  As a coworker, CJ was always available to discuss in-depth technical problems I encountered. Often he would provide insight that I myself had missed. He has helped me continue my growth as a developer and teacher, taking the initiative to plan lunchtime talks about new technologies, and interesting data-structures & algorithms.  CJ is a thoughtful, caring, well-rounded hacker, full of enthusiasm and charm. I recommend him wholeheartedly! He would be a lucky addition to any team."
+    }
+  ]
+}
