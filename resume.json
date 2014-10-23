@@ -16,14 +16,14 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "@w1zeman1p",
-        "url": "https://twitter.com/wizemanip"
-      },
-      {
         "network": "Github",
         "username": "w1zeman1p",
         "url": "https://github.com/w1zeman1p"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "CJ Avilla",
+        "url":"https://www.linkedin.com/pub/cj-avilla/19/772/577"
       }
     ]
   },
@@ -41,6 +41,22 @@
         "Manage team of 4 instructors and teaching assistants.",
         "Develop curriculum."
       ]
+    },
+    {
+      "company": "Hamilton Company",
+      "position": "Software Engineer",
+      "website": "http://www.hamiltoncompany.com",
+      "startDate": "2012-10-12",
+      "endDate": "2013-05-10",
+      "summary": "Liquid Handling Robotics"
+    },
+    {
+      "company": "Muzea Insider Consulting",
+      "position": "Web Developer / Insider Analyst",
+      "website": "http://smartinsider.net",
+      "startDate": "2012-06-01",
+      "endDate": "2012-10-08",
+      "summary": "Insider Trading Research Platform"
     }
   ],
   "education": [
@@ -61,17 +77,6 @@
       "date": "2011-12-30",
       "awarder": "US Army",
       "summary": "Requested by name by multiple Brigade Commanders to control tactical network of western region of Afghanistan."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "Rails",
-        "Javascript"
-      ]
     }
   ],
   "interests": [
