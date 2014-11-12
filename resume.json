@@ -21,10 +21,31 @@
         "url": "https://github.com/w1zeman1p"
       },
       {
+        "network": "StackOverflow",
+        "username": "w1zeman1p",
+        "url": "http://stackoverflow.com/users/2530680/w1zeman1p"
+      },
+      {
         "network": "LinkedIn",
         "username": "CJ Avilla",
         "url":"https://www.linkedin.com/pub/cj-avilla/19/772/577"
+      },
+      {
+        "network": "codeeval",
+        "username": "w1zeman1p",
+        "url": "http://www.codeeval.com/profile/w1zeman1p"
+      },
+      {
+        "network": "VimGolf",
+        "username": "wizemanip",
+        "url":"http://vimgolf.com/wizemanip"
+      },
+      {
+        "network": "Twitter",
+        "username": "wizemanip",
+        "url":"https://twitter.com/wizemanip"
       }
+
     ]
   },
   "work": [
