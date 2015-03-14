@@ -2,17 +2,17 @@
   "basics": {
     "name": "CJ Avilla",
     "label": "Web Developer",
-    "picture": "",
+    "picture": "http://cjavilla.com/profile.jpg",
     "email": "cjavilla@gmail.com",
     "phone": "(775) 225-5622",
-    "website": "http://cjavilla.com",
+    "website": "http://status203.me",
     "summary": "Driven, entrepreneurial minded, web developer.",
     "location": {
       "address": "2200 Gellert Blvd",
-      "postalCode": "CA 94080",
-      "city": "South San Francisco",
+      "postalCode": "94080",
+      "city": "S. San Francisco",
       "countryCode": "US",
-      "region": "California"
+      "region": "CA"
     },
     "profiles": [
       {
@@ -26,14 +26,19 @@
         "url": "http://status203.me/"
       },
       {
-        "network": "StackOverflow",
-        "username": "w1zeman1p",
-        "url": "http://stackoverflow.com/users/2530680/w1zeman1p"
-      },
-      {
         "network": "LinkedIn",
         "username": "CJ Avilla",
         "url":"https://www.linkedin.com/pub/cj-avilla/19/772/577"
+      },
+      {
+        "network": "Twitter",
+        "username": "wizemanip",
+        "url":"https://twitter.com/wizemanip"
+      },
+      {
+        "network": "StackOverflow",
+        "username": "w1zeman1p",
+        "url": "http://stackoverflow.com/users/2530680/w1zeman1p"
       },
       {
         "network": "codeeval",
@@ -44,13 +49,7 @@
         "network": "VimGolf",
         "username": "wizemanip",
         "url":"http://vimgolf.com/wizemanip"
-      },
-      {
-        "network": "Twitter",
-        "username": "wizemanip",
-        "url":"https://twitter.com/wizemanip"
       }
-
     ]
   },
   "work": [
@@ -59,14 +58,12 @@
       "position": "Instructor",
       "website": "http://appacademy.io",
       "startDate": "2013-07-15",
-      "endDate": "2020-01-01",
-      "summary": "App Academy is an immersive 12 week web development and job placement program in San Francisco and New York. Alumni work at companies like Google, Facebook, Twillio, PagerDuty, Pivotal and more.",
+      "summary": "App Academy is an immersive 12 week web development and job placement program in San Francisco and New York. Alumni work at companies like Google, Facebook, LinkedIn, Pivotal Labs, thoughtbot and more.",
       "highlights": [
         "Live code lecture about Ruby, SQL, Rails, Javascript, Backbone and Performance.",
-        "Taught 330+ students over 8+ cohorts.",
-        "#2 in the organization in contributions",
+        "Taught 330+ students over 9+ cohorts.",
         "Lead team of instructors and teaching assistants.",
-        "Develop curriculum."
+        "Developed full stack curriculum."
       ]
     },
     {
