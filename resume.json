@@ -4,16 +4,11 @@
     "label": "Web Developer",
     "picture": "http://cjavilla.com/profile.jpg",
     "email": "cjavilla@gmail.com",
-    "phone": "(775) 225-5622",
     "website": "http://status203.me",
-    "summary": "Driven, entrepreneurial minded, web developer.",
     "location": {
-      "address": "2200 Gellert Blvd",
-      "postalCode": "94080",
-      "city": "S. San Francisco",
-      "countryCode": "US",
-      "region": "CA"
+
     },
+    "summary": "CJ is a driven and talented web developer.",
     "profiles": [
       {
         "network": "Github",
@@ -111,6 +106,12 @@
         "Algorithmic Trading",
         "Built: https://insiderai.com"
       ]
+    },
+    {
+      "name": "Security"
+    },
+    {
+      "name": "Real Estate"
     }
   ],
   "references": [
