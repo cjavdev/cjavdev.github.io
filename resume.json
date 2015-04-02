@@ -8,7 +8,7 @@
     "location": {
 
     },
-    "summary": "CJ is a driven and talented web developer and leader.",
+    "summary": "Experienced software engineer, educator, and technical team builder.",
     "profiles": [
       {
         "network": "Github",
@@ -49,16 +49,29 @@
   },
   "work": [
     {
+      "company": "InsiderAI",
+      "position": "Founder",
+      "website": "https://insiderai.com",
+      "startDate": "2011-04-05",
+      "summary": "InsideAI is a service that provides realtime alerts of actionable stock trading signals.",
+      "highlights": [
+        "Designed and Architected every piece of the system",
+        "Worked with multiple open source library contributers (sec_query and koudoku) to stabilize and add features needed by InsiderAI",
+        "Developed versioned and well tested Rails API.",
+        "Built user facing dashboard in Backbone.js.",
+        "Built a hybrid mobile app using Ionic (Angular) (available in the Apple App Store today)."
+      ]
+    },
+    {
       "company": "App Academy",
       "position": "Instructor",
       "website": "http://appacademy.io",
       "startDate": "2013-07-15",
-      "summary": "App Academy is an immersive 12 week web development and job placement program in San Francisco and New York. Alumni work at companies like Google, Facebook, LinkedIn, Pivotal Labs, thoughtbot and more.",
+      "summary": "App Academy is an immersive 12 week web development and job placement program in San Francisco and New York.",
       "highlights": [
         "Live code lecture about Ruby, SQL, Rails, Javascript, Backbone and Performance.",
-        "Taught 330+ students over 9+ cohorts.",
-        "Lead team of instructors and teaching assistants.",
-        "Developed full stack curriculum."
+        "Taught 330+ students with a 98% placement at companies including Google, Facebook, LinkedIn and Apple.",
+        "Lead development of multiple applications and team of instructors."
       ]
     },
     {
@@ -67,7 +80,11 @@
       "website": "http://www.hamiltoncompany.com",
       "startDate": "2012-10-12",
       "endDate": "2013-05-10",
-      "summary": "Liquid Handling Robotics"
+      "summary": "Liquid Handling Robotics",
+      "highlights": [
+        "Developed tool for managing huge database of complex labware definitions",
+        "Quickly ramped up on and contributed to a codebase with 1 million lines of code"
+      ]
     },
     {
       "company": "Muzea Insider Consulting",
@@ -75,7 +92,12 @@
       "website": "http://smartinsider.net",
       "startDate": "2012-06-01",
       "endDate": "2012-10-08",
-      "summary": "Insider Trading Research Platform"
+      "summary": "Insider Trading Research Platform",
+      "highlights": [
+        "Implemented stock chart in javascript for interactive visualization of insider trading data",
+        "Invented new style of chart to visualize price movements surrounding insider trading events",
+        "Developed WCF web service to expose data in json format"
+      ]
     }
   ],
   "education": [
