@@ -49,10 +49,21 @@
   },
   "work": [
     {
+      "company": "MyVR.com",
+      "position": "Senior Software Engineer",
+      "website": "https://myvr.com",
+      "startDate": "2011-06-19",
+      "summary": "Open Online Platform for Vacation Rental Property Managers",
+      "highlights": [
+        "Integrated third party listing sites to provide channel management."
+      ]
+    },
+    {
       "company": "InsiderAI",
       "position": "Founder",
       "website": "https://insiderai.com",
       "startDate": "2011-04-05",
+      "endDate": "2015-10-02",
       "summary": "InsideAI is a service that provides realtime alerts of actionable stock trading signals.",
       "highlights": [
         "Designed and Architected every piece of the system",
@@ -67,6 +78,7 @@
       "position": "Instructor",
       "website": "http://appacademy.io",
       "startDate": "2013-07-15",
+      "endDate": "2015-06-18",
       "summary": "App Academy is an immersive 12 week web development and job placement program in San Francisco and New York.",
       "highlights": [
         "Live code lecture about Ruby, SQL, Rails, Javascript, Backbone and Performance.",
